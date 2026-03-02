@@ -1,0 +1,6 @@
+name = "cloudflare-react-app"
+compatibility_date = "2025-03-07"
+compatibility_flags = ["nodejs_compat"]
+
+[assets]
+directory = "./dist"
